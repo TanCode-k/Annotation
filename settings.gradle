@@ -1,0 +1,5 @@
+rootProject.name='Annotation'
+include ':app'
+include ':mannotation'
+include ':EntryMoudle'
+include ':AnnotationCompiler'
