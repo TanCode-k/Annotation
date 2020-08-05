@@ -4,7 +4,7 @@ import com.example.mannotation.Factory;
 
 @Factory(
         id = "b",
-        type = Bmoudle.class
+        type = Meal.class
 )
 public class Bmoudle implements Meal {
     @Override
